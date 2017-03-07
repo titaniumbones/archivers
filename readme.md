@@ -35,7 +35,7 @@ This document is broken into two sections. The theory section describes the _why
 * [2.4 Roadmap](practice/roadmap.md)
 * [2.5 Definition of a Service](practice/service_definition.md)
 * [2.6 List of services](practice/services_list.md)
-* [2.7 List of Collaborators](practice/collaborators.md)
+* [2.7 Friends](practice/friends.md)
 
 
 ** **

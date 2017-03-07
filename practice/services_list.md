@@ -15,13 +15,16 @@ A service that integrates data hosts.
 A service that makes Library content available on the IPFS network.
 
 ### Identity-Mgmt
-A service that hosts keypairs for web-based contribution, and volunteered identity info about keypairs
+A service that hosts keypairs for web-based contribution.
+
+### Identity-Info
+A service that hosts volunteered information (for example, name, email, location) about an identity, eventually also publishing this information over IPFS. It may also support grouping identities for key rotation.
 
 ### Context
 A service for volunteers to write metadata about content hosted anywhere within the library.
 
 ### Package-Gen
-A server that generates packages in various formats for package-oriented data hosts.
+A server that generates packages in various formats for package-oriented data hosts on-demand
 
 ### Metablocks
 A Spec for tracking metadata.
