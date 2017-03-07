@@ -4,7 +4,7 @@
 
 The Library of Alexandria was considered the leading intellectual metropolis of the Hellenistic world. It's enticing to think about, a library that had amassed the most-complete collection of human knowledge at that time. In 48 BC, a large part of the library burned down, taking knowledge with it.
 
-Adding insult to injury, the fire that claimed alexandria was accidental, a spillover from Cesear burning ships in a war maneuver. Today we have much smaller accidents that far greater fires: typos that destroy data centers, losing the manual on how to read an entire file format, or not-so-accidental government-sponsored libricide.
+Adding insult to injury, the fire that claimed alexandria was accidental, a spillover from Cesear burning ships in a war maneuver. Today we have much smaller accidents that spark far greater fires: typos that destroy data centers, losing the manual on how to read an entire file format, or not-so-accidental government-sponsored libricide.
 
 As humans, it can sometimes be hard to find something to point to as definitive proof that we're progressing as a species. While that question may be hard to answer, we can definitively state that losing knowledge we worked hard to obtain _is not progress_. Regardless of how a fire gets started, what matters is making sure that books burn, not knowledge.
 
@@ -62,6 +62,6 @@ Provide frameworks for the community to build, contribute, and maintain meaningf
 #### Plan Long-term
 Setup a roadmap for long-term stewardship & maintenance.
 
-#### See information as something we all hold *together*
+#### View information as something we all hold *together*
 Instead of going through someone to get to it, annotate, or comment on it. Truly open data.
 
