@@ -11,7 +11,7 @@ _see [1.1.3](theory/distribution.md) & [1.2.3](theory/participation.md) for the 
 ** **
 ### 1.3.3 Distributed participation creates public knowledge.
 
-Here we arrive at a set of principles that both propagate the library and provide a base context to work from. If we all engage in distributing information, our library _will build itself_.
+Here we arrive at a set of principles that both propagate the library and provide a base context to work from. If we all engage in distributing information, our library _will build it's own base context_.
 
 If we participate in communicating information (and information about information aka metadata) with each other, and keep copies of those communications, the communication itself fills the library with semantic value.
 
