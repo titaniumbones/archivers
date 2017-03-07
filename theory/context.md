@@ -2,7 +2,6 @@
 
 Context deals with the question of _what_. Here we'll put the former two conclusions together to form _what_ it is we should do.
 
-Based on the prior two sections:
 1. Distributing information prevents the destruction of knowledge.
 2. Participation is public communication.
 3. Distributed participation creates public knowledge.

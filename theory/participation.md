@@ -2,7 +2,6 @@
 
 Participation is consideration of _who_. Who can consume knowledge? Who can add knowledge? Who can remove knowledge? What constitutes a participant?
 
-Participation is defined by the following syllogysm:
 1. The public is a collection of identities.
 2. Communication is one identity sending information to another identity.
 3. Participation is public communication.
