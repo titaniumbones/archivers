@@ -1,12 +1,11 @@
 # Archivers 2.0
 ### 2016-02-27
 
-** **
 ## Preface
 
 The Library of Alexandria was considered the leading intellectual metropolis of the Hellenistic world. It's enticing to think about, a library that had amassed the most-complete collection of human knowledge at that time. In 48 BC, a large part of the library burned down, robbing those of us who walk the earth today of the knowledge it contained. The fire that claimed alexandria was accidental. Other fires have been started intentionally. We now live in a world where the term 'libricide' exists. Regardless of how a fire gets started, what matters is making sure that books burn, not knowledge.
 
-The time has come to rebuild Alexandria. This time let's read the fire code.
+The time has come to rebuild Alexandria. This time let's read the fire code first.
 
 Thankfully, we are in no way starting from scratch. Many, many libraries–both physical and digial–already exist. All we need to do is connect these libraries together, and make sure an accurate copy of each book lives in more than one place.
 
@@ -34,7 +33,6 @@ This document is broken into two sections. The theory section describes the _why
 * [2.5 Definition of a Service](practice/service_definition.md)
 * [2.6 List of services](practice/services_list.md)
 * [2.7 List of Collaborators](practice/collaborators.md)
-* [2.8 Glossary](theory/glossary.md)
 
 
 ** **
@@ -66,7 +64,3 @@ Instead of going through someone to get to it, annotate, or comment on it.
 
 
 ** **
-# Prior Art
-
-* [Data Rescue MIT Notes](https://hackmd.io/GwdgpgDARgLAhgDgLQEYBmBOFSYYRJKAZliWDhiIphgXDiA=?edit)
-* [Dataset Coordination Discussion](https://github.com/edgi-govdata-archiving/dataset-registries/issues/1)
