@@ -51,4 +51,4 @@ All of which are files, and if we so desire later on we can just as easily publi
 It's worth noting "file" will actually be "hash" because we're working in a content-addressed system, we're calling it "file" here because `abdcd3a23456789765bacdfe3637442373y...` is just nasty, and makes it tougher to explain what's going on.
 
 # 2.1.4 This stuff is new & complicated.
-We adknowledge that this is very complex, and consider it our job to make these technologies easy to work with by building abstractions on top of these more difficult-to-use bits. It shouldn't be a requirement that a volunteer even know what IPFS is in order to contribute. Once we're up to speed it should get easier & easier for people of any skill level to contribute to the project.
+We acknowledge that this is very complex, and consider it our job to make these technologies easy to work with by building abstractions on top of these more difficult-to-use bits. It shouldn't be a requirement that a volunteer even know what IPFS is in order to contribute. Once we're up to speed it should get easier & easier for people of any skill level to contribute to the project.
